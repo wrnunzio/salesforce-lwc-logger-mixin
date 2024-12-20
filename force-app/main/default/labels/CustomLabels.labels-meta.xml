@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>EnableProductionConsoleLogs</fullName>
+        <categories>ProductionConsoleLogs</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EnableProductionConsoleLogs</shortDescription>
+        <value>false</value>
+    </labels>
+    <labels>
+        <fullName>EnableProductionConsoleLogsRetricted</fullName>
+        <categories>ProductionConsoleLogs</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EnableProductionConsoleLogsRetricted</shortDescription>
+        <value>ExcelClipboardReader</value>
+    </labels>
+</CustomLabels>
