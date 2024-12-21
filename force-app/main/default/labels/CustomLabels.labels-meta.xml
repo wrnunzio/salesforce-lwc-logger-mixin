@@ -2,18 +2,26 @@
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
         <fullName>EnableProductionConsoleLogs</fullName>
-        <categories>ProductionConsoleLogs</categories>
+        <categories>loggerMixin</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>EnableProductionConsoleLogs</shortDescription>
-        <value>false</value>
+        <value>true</value>
     </labels>
     <labels>
         <fullName>EnableProductionConsoleLogsRetricted</fullName>
-        <categories>ProductionConsoleLogs</categories>
+        <categories>loggerMixin</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>EnableProductionConsoleLogsRetricted</shortDescription>
         <value>ExcelClipboardReader</value>
+    </labels>
+    <labels>
+        <fullName>EnableSandboxLogConsoleLogs</fullName>
+        <categories>loggerMixin</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>EnableSandboxLogConsoleLogs</shortDescription>
+        <value>true</value>
     </labels>
 </CustomLabels>
