@@ -128,7 +128,7 @@ to [Exploring Mixins in LWC by César Parra](https://cesarparra.github.io/blog/b
 ---
 
 ## ✏️ **Customization**
-
+- **`componentName`**: As is impossible to get the class/file name when debug mode is disabled this (indeed) needed
 - **`textColor`**: Define the color of log text for better visual identification.
 - **`prefix`**: Add a prefix to logs for easier component traceability.
 
