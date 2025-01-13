@@ -9,7 +9,7 @@
         <value>true</value>
     </labels>
     <labels>
-        <fullName>EnableProductionConsoleLogsRetricted</fullName>
+        <fullName>EnableProductionConsoleLogsRestricted</fullName>
         <categories>loggerMixin</categories>
         <language>en_US</language>
         <protected>true</protected>
